@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">aghanya</string>
+    <string name="title_activity_main">aghanya</string>
+    <string name="package_name">in.co.aghanya</string>
+    <string name="custom_url_scheme">in.co.aghanya</string>
+</resources>

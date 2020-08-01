@@ -5,7 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { HomePage } from './home.page';
 
 import { HomePageRoutingModule } from './home-routing.module';
-
+import { FileSizeFormatPipe } from './file-size-format.pipe'
 
 @NgModule({
   imports: [
